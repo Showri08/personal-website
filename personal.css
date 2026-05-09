@@ -80,6 +80,7 @@
     border: none;
     border-radius: 6px;
     /* about */
+}
 
 .about-img{
     width: 576px;
@@ -94,8 +95,22 @@
 .about-container{
     margin-right:158px;
 }
+.about-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #363958;
 
 }
+/* project */
+.project-sec{
+    display: flex;
+    background-color: #F8F9FC;
+}
+.project-img{
+    width: 100%;
+}
+
+
 @media screen and (max-width: 776px) {
 
     .head {
