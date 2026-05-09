@@ -105,10 +105,15 @@
 /* about */
 
 .about-img{
-    width: 100%;
+    width: 576px;
+    
+    margin-left:123px;
 }
 .about-sec{
     justify-content: center;
     align-items: center;
     gap: 232px;
+}
+.about-container{
+    margin-right:158px;
 }
